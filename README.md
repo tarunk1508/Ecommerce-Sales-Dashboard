@@ -19,8 +19,9 @@ An interactive Power BI dashboard built to analyze ecommerce sales trends, reven
 
 ## 🖼️ **Dashboard Preview**
 
-Main dashboard
+Main Dashboard
+
 <img width="1331" height="748" alt="Main" src="https://github.com/user-attachments/assets/4485d001-e122-4e66-b049-9185bc645390" />
 
-Filter applied view
+Filter Applied View
 <img width="1323" height="731" alt="Filters" src="https://github.com/user-attachments/assets/1e52ba22-b420-4fb5-b446-909366869e61" />
